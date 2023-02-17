@@ -1,1 +1,3 @@
-# AeroManage
+AeroManage is an airport management application developed using .NET, REST Web Service, MySQL, and C#. The application aims to provide efficient management of airport activities by integrating several advanced features. It allows users to manage flight schedules, airlines, destinations, passengers, reservations, baggage, employees, airport facilities, reports.
+.It is designed to be intuitive and easy to use, while offering maximum security and reliability for airport operations.
+AeroManage is intended to be used by airport managers, management staff, airlines, airport employees, and travelers. It can be tailored to the specific needs of each airport and offers flexibility in terms of integration with existing airport systems. With AeroManage, airport activity management is simplified, streamlined, and optimized for a better passenger experience and greater operational efficiency.

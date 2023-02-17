@@ -1,0 +1,14 @@
+﻿@model IEnumerable<AM.ApplicationCore.Domain.Plane>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+@foreach(var item in Model){
+    @Html.Partial("_Details",item)
+}
